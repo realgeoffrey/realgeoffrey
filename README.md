@@ -2,7 +2,7 @@
 
 Big Brother is watching you.🗿
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=realgeoffrey)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **realgeoffrey/realgeoffrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
